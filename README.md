@@ -1,4 +1,4 @@
-<img src="https://github.com/Hiteshsukhwani29/Hiteshsukhwani29/blob/main/root/h.gif"/>
+<img src="https://github.com/Hiteshsukhwani29/Hiteshsukhwani29/blob/main/pics/h.gif"/>
 
 <h1 align="center">Hi, I'm Hitesh Sukhwani </h1>
  
