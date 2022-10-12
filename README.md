@@ -1,7 +1,6 @@
 <img src="https://github.com/Hiteshsukhwani29/Hiteshsukhwani29/blob/main/pics/h.gif"/>
 
 <h1 align="center">Hi, I'm Hitesh Sukhwani </h1>
-![](https://komarev.com/ghpvc/?username=Hiteshsukhwani29&color=8670ff)
 
 <br><br>
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr...)](https://git.io/typing-svg)
@@ -23,6 +22,8 @@
 ![Hitesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hiteshsukhwani29&theme=rogue)
 
 ## Connect with me:
+   ![](https://komarev.com/ghpvc/?username=Hiteshsukhwani29&color=8670ff)
+
 <p align="left">
 <div class="footer" id="top3">
   <center> 
@@ -32,7 +33,6 @@
     <a href="https://www.instagram.com/sukhwanihitesh_" class="pics"><img src="pics/instagram.svg" height="36vh"></a>
    <a href="https://www.youtube.com/channel/UCtzTw_felPp98iWGnj_zoag" class="pics"><img src="pics/youtube.svg" height="36vh"></a>
      <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=hiteshsukhwani29@gmail.com" class="pics"><img src="pics/gmail (1).svg" height="36vh"></a>
-  
   </div>
 </p>
 
