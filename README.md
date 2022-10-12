@@ -1,7 +1,8 @@
 <img src="https://github.com/Hiteshsukhwani29/Hiteshsukhwani29/blob/main/pics/h.gif"/>
 
 <h1 align="center">Hi, I'm Hitesh Sukhwani </h1>
- 
+![](https://komarev.com/ghpvc/?username=Hiteshsukhwani29&color=8670ff)
+
 <br><br>
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr...)](https://git.io/typing-svg)
 <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
